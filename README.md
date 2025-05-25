@@ -1,15 +1,18 @@
-Indian Tourism Explorer
+**Indian Tourism Explorer**
 
-Welcome to **Indian Tourism Explorer**, a smart and interactive Streamlit app developed by **Team Astra\_Nova**. Our goal is to help travelers discover the best of India’s incredible tourist destinations, plan trips easily, and gain insightful analytics about popular places — all powered by real data and a bit of AI magic!
+Welcome to **Indian Tourism Explorer**, a smart and interactive Streamlit app developed by **Team Astra_Nova**. Our goal is to help travelers discover the best of India’s incredible tourist destinations, plan trips easily, and gain insightful analytics about popular places — all powered by real data and a bit of AI magic!
 
-About the Team Astra\_Nova
+About the Team Astra_Nova
 
 This project is a collaboration between:
 
-* **Vrushika Panchal** – [[GitHub Profile](https://github.com/vrushikakpanchal)](https://github.com/vrushikakpanchal)
+* **Vrushika K Panchal**
+  Email: [vrushikapanchal@gmail.com](mailto:vrushikapanchal@gmail.com)
+  GitHub:[[GitHub Profile](https://github.com/vrushikakpanchal)]
+  
 * **Chetan Somwanshi**
-  Email: chetansomwanshi007@gmail.com
-  GitHub: [[chetansomwanshi](https://github.com/chetansomwanshi)](https://github.com/Chetanp717)
+  Email: [chetansomwanshi007@gmail.com](mailto:chetansomwanshi007@gmail.com) 
+  GitHub: [[chetansomwanshi](https://github.com/chetansomwanshi)]
 
 Together, we combined data science, visualization, and AI-powered travel planning to build a tool that’s practical, easy to use, and fun!
 
@@ -101,16 +104,15 @@ We use a rich dataset covering:
 
 ---
 
-## 🤝 Contributing & Feedback
+## Contributing & Feedback
 
 We welcome contributions, ideas, and feedback to make Indian Tourism Explorer even better! Feel free to open issues or submit pull requests.
 
 ---
 
-## 📬 Contact Us
+## Contact Us
 
-* Vrushika Panchal – [[GitHub](https://github.com/vrushikakpanchal)](https://github.com/vrushikakpanchal)
-* Chetan Somwanshi – [[GitHub](https://github.com/chetansomwanshi)](https://github.com/Chetanp717), Email: [chetan.somwanshi@example.com](mailto:chetan.somwanshi@example.com)
-
+- Vrushika Panchal – [GitHub](https://github.com/vrushikakpanchal), Email: [vrushikapanchal@gmail.com](mailto:vrushikapanchal@gmail.com)  
+- Chetan Somwanshi – [GitHub](https://github.com/Chetanp717), Email: [chetansomwanshi007@gmail.com](mailto:chetansomwanshi007@gmail.com)  
 
 Thank you for exploring India with us!✨
