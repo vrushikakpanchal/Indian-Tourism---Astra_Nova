@@ -7,6 +7,10 @@ import random
 from datetime import datetime
 import numpy as np
 
+import os
+data_path = os.path.join("data", "Top Indian Places to Visit.csv")
+
+
 st.set_page_config(
     page_title="Indian Tourism Explorer",
     page_icon="🏛️",
@@ -50,7 +54,7 @@ st.markdown("""
 def load_data():
     """Load and process the tourism data"""
     try:
-        df = pd.read_csv('data\Top Indian Places to Visit.csv')
+        df = pd.read_csv(data_path)
         
         df.columns = df.columns.str.strip()
         
