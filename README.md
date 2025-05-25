@@ -8,7 +8,7 @@ This project is a collaboration between:
 
 * **Vrushika K Panchal**
   Email: [vrushikapanchal@gmail.com](mailto:vrushikapanchal@gmail.com)
-  GitHub:[[GitHub Profile](https://github.com/vrushikakpanchal)]
+  GitHub:[[vrushikakpanchal](https://github.com/vrushikakpanchal)]
   
 * **Chetan Somwanshi**
   Email: [chetansomwanshi007@gmail.com](mailto:chetansomwanshi007@gmail.com) 
@@ -112,7 +112,7 @@ We welcome contributions, ideas, and feedback to make Indian Tourism Explorer ev
 
 ## Contact Us
 
-- Vrushika Panchal – [GitHub](https://github.com/vrushikakpanchal), Email: [vrushikapanchal@gmail.com](mailto:vrushikapanchal@gmail.com)  
-- Chetan Somwanshi – [GitHub](https://github.com/Chetanp717), Email: [chetansomwanshi007@gmail.com](mailto:chetansomwanshi007@gmail.com)  
+- Vrushika Panchal – [vrushikakpanchal](https://github.com/vrushikakpanchal), Email: [vrushikapanchal@gmail.com](mailto:vrushikapanchal@gmail.com)  
+- Chetan Somwanshi – [chetansomwanshi](https://github.com/Chetanp717), Email: [chetansomwanshi007@gmail.com](mailto:chetansomwanshi007@gmail.com)  
 
 Thank you for exploring India with us!✨
