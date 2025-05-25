@@ -1,6 +1,6 @@
-**Indian Tourism Explorer**
+**RangBhoomi – India’s Cultural Canvas**
 
-Welcome to **Indian Tourism Explorer**, a smart and interactive Streamlit app developed by **Team Astra_Nova**. Our goal is to help travelers discover the best of India’s incredible tourist destinations, plan trips easily, and gain insightful analytics about popular places — all powered by real data and a bit of AI magic!
+Welcome to **RangBhoomi – India’s Cultural Canvas**, a smart and interactive Streamlit app developed by **Team Astra_Nova**. Our goal is to help travelers discover the best of India’s incredible tourist destinations, plan trips easily, and gain insightful analytics about popular places — all powered by real data and a bit of AI magic!
 
 About the Team Astra_Nova
 
