@@ -7,7 +7,7 @@ About the Team Astra_Nova
 This project is a collaboration between:
 
 * **Vrushika K Panchal**
-  Email: [vrushikapanchal@gmail.com](mailto:vrushikapanchal@gmail.com)
+  Email: [vrushikakpanchal@gmail.com](mailto:vrushikakpanchal@gmail.com)
   GitHub:[[vrushikakpanchal](https://github.com/vrushikakpanchal)]
   
 * **Chetan Somwanshi**
@@ -112,7 +112,7 @@ We welcome contributions, ideas, and feedback to make Indian Tourism Explorer ev
 
 ## Contact Us
 
-- Vrushika Panchal – [vrushikakpanchal](https://github.com/vrushikakpanchal), Email: [vrushikapanchal@gmail.com](mailto:vrushikapanchal@gmail.com)  
+- Vrushika Panchal – [vrushikakpanchal](https://github.com/vrushikakpanchal), Email: [vrushikakpanchal@gmail.com](mailto:vrushikakpanchal@gmail.com)  
 - Chetan Somwanshi – [chetansomwanshi](https://github.com/Chetanp717), Email: [chetansomwanshi007@gmail.com](mailto:chetansomwanshi007@gmail.com)  
 
 Thank you for exploring India with us!✨
